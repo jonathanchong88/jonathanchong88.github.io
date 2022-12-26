@@ -1,6 +1,6 @@
 {
-    "name": "ecommerce_app",
-    "short_name": "ecommerce_app",
+    "name": "flutter_web_test",
+    "short_name": "flutter_web_test",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
